@@ -31,8 +31,7 @@ we also implement a constructor for initialization, and an operator which return
 ![alt text](ScreenShots/haffmannode.png)
 
 ### class compare
-* This class only has an operator which compares between values of two huffnodes and returns true  
-if the first is bigger and false if it isn't.
+* This class only has an operator which compares between values of two huffnodes and returns true if the first is bigger and false if it isn't.
 ![alt text](ScreenShots/compare.png)
 
 ### Maketree
